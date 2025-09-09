@@ -30,16 +30,16 @@ export default function Slidebar() {
         className="mySwiper"
       >
         <SwiperSlide>
-            <div className='w-full h-[250px] md:h-[400px] lg:h-[500px] bg-cyan-950'>
+            <div className='w-full h-[200px] md:h-[400px] lg:h-[500px] bg-cyan-950'>
                 <div className='w-full h-full'>
-                    <img src="public/house/house1.png" alt="" className='w-full h-full object-contain' />
+                    <img src="public/house/Navlogo.png" alt="error" className='w-full h-full object-contain' />
                 </div>
             </div>
         </SwiperSlide>
         <SwiperSlide>
-            <div className='w-full h-[250px] md:h-[400px] lg:h-[500px] bg-cyan-950'>
+            <div className='w-full h-[200px] md:h-[400px] lg:h-[500px] bg-cyan-950'>
                 <div className='w-full h-full'>
-                    <img src="public/house/house1.png" alt="" className='w-full h-full object-contain' />
+                    <img src="public/house/Navlogo2.png" alt="error" className='w-full h-full object-contain' />
                 </div>
             </div>
         </SwiperSlide>
