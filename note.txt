@@ -1,0 +1,46 @@
+house-rental/
+│── src/
+│   ├── assets/            
+│   ├── components/          
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── SearchBar.jsx
+│   │   ├── HouseCard.jsx
+│   │   ├── HouseFilter.jsx
+│   │   ├── ContactForm.jsx
+│   │   └── ImageGallery.jsx
+│   │
+│   ├── pages/              
+│   │   ├── Home.jsx
+│   │   ├── Houses.jsx
+│   │   ├── HouseDetail.jsx
+│   │   ├── About.jsx
+│   │   └── Contact.jsx
+│   │
+│   ├── layouts/             
+│   │   └── MainLayout.jsx  
+│   │
+│   ├── admin/               
+│   │   ├── Dashboard.jsx
+│   │   ├── AddHouse.jsx
+│   │   ├── EditHouse.jsx
+│   │   └── HouseList.jsx
+│   │
+│   ├── routes/               
+│   │   └── AppRoutes.jsx
+│   │
+│   ├── context/             
+│   │   └── HouseContext.jsx
+│   │
+│   ├── services/             
+│   │   └── houseService.js
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+└── package.json
+
+
+
+29052004
