@@ -10,7 +10,7 @@ export default function Nav(){
             {/* --------- lg screen ------------ */}
             <nav className="hidden w-full h-[70px] bg-white shadow-md lg:flex">
                 <div className="w-[30%]  h-full ">
-                    <img src="public/logo/logo.png" alt="" className="h-full object-cover" />
+                    <img src="/logo/logo.png" alt="" className="h-full object-cover" />
                 </div>
                 <div className="w-[70%] h-full flex items-center justify-end">
                     <ul className="w-[60%] flex  justify-evenly font-medium text-xl">
@@ -26,7 +26,7 @@ export default function Nav(){
             {/* --------- md screen -------------- */}
             <div className="lg:hidden w-full h-[60px] flex">
                 <div className="w-[50%] h-full">
-                     <img src="public/logo/logo.png" alt="" className="h-full object-cover" />
+                     <img src="/logo/logo.png" alt="" className="h-full object-cover" />
                 </div>
                 <div className="w-[50%] h-full flex items-center justify-end px-5">
                     <h1 className="text-3xl" onClick={()=>setmenu(!menu)}>
